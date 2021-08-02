@@ -1,12 +1,12 @@
 {
-    "id": "1E97FA0B",
-    "path": "~/GitHub/website/stats-test/.Rprofile",
-    "project_path": ".Rprofile",
-    "type": "r_source",
+    "id": "F1B7113C",
+    "path": "~/GitHub/website/stats-test/netlify.toml",
+    "project_path": "netlify.toml",
+    "type": "toml",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1627902596095.0,
+    "created": 1627903680858.0,
     "source_on_save": false,
     "relative_order": 3,
     "properties": {
